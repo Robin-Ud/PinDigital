@@ -1,0 +1,8 @@
+{
+  "pinentry_real": "/usr/bin/pinentry-gnome3",
+  "fprintd_verify": "/usr/bin/fprintd-verify",
+  "secret_tool": "/usr/bin/secret-tool",
+  "notify_send": "/usr/bin/notify-send",
+  "tentativas_dedo": 3,
+  "prompt_senha_mestra": "Master Password"
+}
